@@ -11,5 +11,3 @@ ORDER BY
   count DESC
 LIMIT
   5;
-
--- OUTPUT STORED IN: Project_Files/top_5_baby_names_boys_2014.csv

@@ -9,4 +9,4 @@ FROM
 
 -- Query Result: 11.279
 -- Comparison: This is smaller than the 2005 average of 12.833
--- Output stored in: Project_Files/avg_tree_diameter_2015.csv
+

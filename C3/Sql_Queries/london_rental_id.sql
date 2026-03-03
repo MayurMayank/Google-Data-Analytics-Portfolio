@@ -10,5 +10,4 @@ WHERE
   rental_id = 57635395;
 
 -- result: East Village, Queen Elizabeth Olympic Park
--- output stored in: Project_Files/london_rental_id.csv
 
